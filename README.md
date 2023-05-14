@@ -1,4 +1,4 @@
-#¡Hola, pura vida!
+### ¡Hola, pura vida!
 
 Bienvenido a mi perfil de Github.
 Mi nombre es Esteban Cruz, soy bachiller en Ingeniería en Computación graduado del Instituto Tecnológico de Costa Rica.
